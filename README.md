@@ -296,4 +296,5 @@ All information from Active Player can be described by Player.
 ---
 
 ### Note  
-Feedback is always welcome and appreciated. Either contact me on steam via http://steamcommunity.com/id/BlindSightSniper/ or add another UGC Admin.
+Feedback is always welcome and appreciated. If you have any requests, please open them as github issues here so we can track them.  
+If you would like an API key, please contact me on steam via http://steamcommunity.com/id/BlindSightSniper/ or add another UGC Admin.
